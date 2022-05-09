@@ -1,0 +1,20 @@
+{
+  "name": "Symbiote Modules",
+  "last_update": 1640056254000,
+  "modules": [
+    {
+      "id": "riru_edxposed_sandhook",
+      "last_update": 1640056254000,
+      "prop_url": "https://raw.githubusercontent.com/fufufu7/EdXposed/main/module.prop",
+      "zip_url": "https://github.com/fufufu7/EdXposed/releases/download/v0.5.1.4/EdXposed-v0.5.1.4.zip",
+      "notes_url": "https://raw.githubusercontent.com/fufufu7/EdXposed/main/README.md"
+    },
+    {
+      "id": "riru-core",
+      "last_update": 1639570144000,
+      "prop_url": "https://raw.githubusercontent.com/fufufu7/Riru/main/module.prop",
+      "zip_url": "https://github.com/fufufu7/Riru/releases/download/V25.4.4/riru-v25.4.4-release.zip",
+      "notes_url": "https://raw.githubusercontent.com/fufufu7/Riru/main/README.md"
+    }
+  ]
+}
