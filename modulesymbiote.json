@@ -3,6 +3,13 @@
   "last_update": 1640056254000,
   "modules": [
     {
+      "id": "Muse-IsolatedSystem",
+      "last_update": 1640056254000,
+      "prop_url": "https://raw.githubusercontent.com/fufufu7/LSPosed/main/module.prop",
+      "zip_url": "https://github.com/fufufu7/LSPosed/releases/download/v7/IsolatedSystem-v7.zip",
+      "notes_url": "https://raw.githubusercontent.com/fufufu7/LSPosed/main/README.md"
+    },
+    {
       "id": "riru_edxposed_sandhook",
       "last_update": 1640056254000,
       "prop_url": "https://raw.githubusercontent.com/fufufu7/EdXposed/main/module.prop",
