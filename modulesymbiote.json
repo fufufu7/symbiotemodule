@@ -3,6 +3,13 @@
   "last_update": 1640056254000,
   "modules": [
     {
+      "id": "Symbiote",
+      "last_update": 1640056254000,
+      "prop_url": "https://raw.githubusercontent.com/fufufu7/Symbiote/main/module.prop",
+      "zip_url": "https://github.com/fufufu7/Symbiote/releases/download/v12/Symbiote-magisk.zip",
+      "notes_url": "https://raw.githubusercontent.com/fufufu7/Symbiote/main/README.md"
+    },
+    {
       "id": "riru_lsposed",
       "last_update": 1640056254000,
       "prop_url": "https://raw.githubusercontent.com/fufufu7/LSPosed/main/module.prop",
