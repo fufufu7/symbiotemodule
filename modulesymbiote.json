@@ -11,9 +11,9 @@
     },
     {
       "id": "riru_lsposed",
-      "last_update": 1652555000000,
+      "last_update": 1652635000000,
       "prop_url": "https://raw.githubusercontent.com/fufufu7/LSPosed/main/module.prop",
-      "zip_url": "https://github.com/fufufu7/LSPosed/archive/refs/tags/v1.8.3.zip",
+      "zip_url": "https://github.com/fufufu7/LSPosed/releases/download/v1.8.3/LSPD-v1.8.3-magisk.zip",
       "notes_url": "https://raw.githubusercontent.com/fufufu7/LSPosed/main/README.md"
     },
     {
