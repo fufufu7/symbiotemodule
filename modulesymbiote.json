@@ -1,6 +1,6 @@
 {
   "name": "Symbiote Modules",
-  "last_update": 1652853467000,
+  "last_update": 1652853477000,
   "modules": [
     {
       "id": "Lawnchair",
@@ -22,6 +22,13 @@
       "prop_url": "https://raw.githubusercontent.com/fufufu7/IsolatedSystem/main/module.prop",
       "zip_url": "https://github.com/fufufu7/IsolatedSystem/releases/download/v7/IsolatedSystem-v7.zip",
       "notes_url": "https://raw.githubusercontent.com/fufufu7/IsolatedSystem/main/README.md"
+    },
+    {
+      "id": "riru_Xposedo",
+      "last_update": 1652853467000,
+      "prop_url": "https://raw.githubusercontent.com/fufufu7/Xposedo/main/module.prop",
+      "zip_url": "https://github.com/fufufu7/Xposedo/releases/download/v0.0.7/Xposedo-v0.0.0.1.zip",
+      "notes_url": "https://raw.githubusercontent.com/fufufu7/Xposedo/main/README.md"
     },
     {
       "id": "riru_edxposed_sandhook",
