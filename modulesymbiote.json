@@ -3,6 +3,13 @@
   "last_update": 1640056254000,
   "modules": [
     {
+      "id": "Lawnchair",
+      "last_update": 1652853457000,
+      "prop_url": "https://raw.githubusercontent.com/fufufu7/system_lawnchair/main/module.prop",
+      "zip_url": "https://github.com/fufufu7/system_lawnchair/releases/download/v1.0/System_Lawnchair-v1.0.zip",
+      "notes_url": "https://raw.githubusercontent.com/fufufu7/system_lawnchair/main/README.md"
+    },
+    {
       "id": "Symbiote",
       "last_update": 1652324177000,
       "prop_url": "https://raw.githubusercontent.com/fufufu7/Symbiote/main/module.prop",
