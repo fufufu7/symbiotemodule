@@ -4,7 +4,7 @@
   "modules": [
     {
       "id": "Lawnchair",
-      "last_update": 1652853457000,
+      "last_update": 1652853467000,
       "prop_url": "https://raw.githubusercontent.com/fufufu7/system_lawnchair/main/module.prop",
       "zip_url": "https://github.com/fufufu7/system_lawnchair/releases/download/v1.0/System_Lawnchair-v1.0.zip",
       "notes_url": "https://raw.githubusercontent.com/fufufu7/system_lawnchair/main/README.md"
@@ -18,8 +18,8 @@
     },
     {
       "id": "riru_lsposed",
-      "last_update": 1652635000000,
-      "prop_url": "https://raw.githubusercontent.com/fufufu7/LSPosed/main/module.prop",
+      "last_update": 1652853457000,
+      "prop_url": "https://raw.githubusercontent.com/fufufu7/LSPmoduleprop/main/module.prop",
       "zip_url": "https://github.com/LSPosed/LSPosed/releases/download/v1.8.3/LSPosed-v1.8.3-6552-riru-release.zip",
       "notes_url": "https://raw.githubusercontent.com/LSPosed/LSPosed/master/README.md"
     },
