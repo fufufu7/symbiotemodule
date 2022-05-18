@@ -17,13 +17,6 @@
       "notes_url": "https://raw.githubusercontent.com/fufufu7/Symbiote/main/README.md"
     },
     {
-      "id": "riru_lsposed",
-      "last_update": 1652853457000,
-      "prop_url": "https://raw.githubusercontent.com/fufufu7/LSPmoduleprop/main/module.prop",
-      "zip_url": "https://github.com/LSPosed/LSPosed/releases/download/v1.8.3/LSPosed-v1.8.3-6552-riru-release.zip",
-      "notes_url": "https://raw.githubusercontent.com/LSPosed/LSPosed/master/README.md"
-    },
-    {
       "id": "Muse-IsolatedSystem",
       "last_update": 1640056254000,
       "prop_url": "https://raw.githubusercontent.com/fufufu7/IsolatedSystem/main/module.prop",
