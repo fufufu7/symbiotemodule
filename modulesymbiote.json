@@ -1,6 +1,6 @@
 {
   "name": "Symbiote Modules",
-  "last_update": 1652853477000,
+  "last_update": 1653448477000,
   "modules": [
     {
       "id": "Lawnchair",
@@ -11,9 +11,9 @@
     },
     {
       "id": "Symbiote",
-      "last_update": 1652324177000,
+      "last_update": 1653448477000,
       "prop_url": "https://raw.githubusercontent.com/fufufu7/Symbiote/main/module.prop",
-      "zip_url": "https://github.com/fufufu7/Symbiote/releases/download/v12/Symbiote-Final.zip",
+      "zip_url": "https://github.com/fufufu7/Symbiote/releases/download/v12.1/Symbiote-Final.zip",
       "notes_url": "https://raw.githubusercontent.com/fufufu7/Symbiote/main/README.md"
     },
     {
